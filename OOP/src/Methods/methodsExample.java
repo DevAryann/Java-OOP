@@ -12,7 +12,7 @@ public class methodsExample {
 
     }
 
-    static int add(int a , int b){
+    static int add(int a , int b){                    // Initialize methods
 
         return  a +  b ;
     }
