@@ -15,7 +15,7 @@ public class Example {
 class Passwords{
    private String passwords ;
 
-   public void setPasswords(String pass ){                     // Setter
+   public void setPasswords(String pass ) {                     // Setter
        this.passwords = pass ;
     }
    public String getPasswords(){                               //getter
