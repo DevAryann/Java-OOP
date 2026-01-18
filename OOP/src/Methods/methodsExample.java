@@ -8,8 +8,6 @@ public class methodsExample {
         int b = 3 ;
 
         System.out.println(add(a,b));
-
-
     }
 
     static int add(int a , int b){                    // Initialize methods
